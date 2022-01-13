@@ -14,12 +14,27 @@
 
 - Barbell Incline Bench Press (3x10)
 
-![](./img/Chest_and_Triceps/CABLE_Reverse_Flyes.png)
+![](./img/Chest_and_Triceps/Barbell_Incline_Bench_Press.png)
 
 - Dips (4x7)
+
+![](./img/Chest_and_Triceps/Dips.png)
+
 - Pullovers (3x10)
+
+![](./img/Chest_and_Triceps/Pullover.png)
+
 - Skullcrushers (3x8)
+
+![](./img/Chest_and_Triceps/Skullcrushers.png)
+
 - Machine Flyes (3x9)
+
+![](./img/Chest_and_Triceps/Machine_Flyes.png)
+
 - Triceps Pulldowns (2x13)
+
+![](./img/Chest_and_Triceps/Triceps_Pulldowns.png)
+
 Option Shoulder ダンベル　(With Pullover
 
