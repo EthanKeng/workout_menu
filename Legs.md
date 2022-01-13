@@ -6,7 +6,7 @@
 | \- Barbell Romanian Deadlifts (3x8)        | 15 each side | バー高さ13 |
 | \- Front squats (3x8)                      | ?            | NA     |
 | \- Calf / Leg press on legs machine (2x12) | ?            | NA     |
-| \-One feet squats (2x7)                      | 9+9          | NA     |
+| \- One feet squats (2x7)                      | 9+9          | NA     |
 | \- (optional) Hip thrusts (3x6)            | ?            | NA     |
 
 ## How to images
