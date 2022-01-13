@@ -1,3 +1,5 @@
+# My Back&Bicep Menu
+
 | \- Menu                  | weight            |
 | --------------------------------------- | ------------- |
 | \- Barbell Rows (3x10)                  | ??            |
@@ -11,11 +13,29 @@
 ## How to images
 
 -  Barbell Rows  (3x10)
-[](./img/Back_and_Bicep/Barbell_Rows.png)
+
+![](./img/Back_and_Bicep/Barbell_Rows.png)
+
 - Deadlifts (2x5)
-[](./Deadlifts.png)
+
+![](./img/Back_and_Bicep/Deadlifts.png)
+
 - Pullups (3x8)
+
+![](./img/Back_and_Bicep/Pullups.png)
+
 - EZ bar biceps curls (standing) (3x8)
+
+![](./img/Back_and_Bicep/EZ_bar_biceps_curls_(standing).png)
+
 - Dumbbell Rows (2x9)
+
+![](./img/Back_and_Bicep/Dumbbell_Rows.png)
+
 - Concentration curls (2x10)
+
+![](./img/Back_and_Bicep/Concentration_curls.png)
+
 -CABLE Reverse Flyes(2x12) 
+
+![](./img/Back_and_Bicep/CABLE_Reverse_Flyes.png)
