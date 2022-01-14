@@ -2,13 +2,13 @@
 
 | \- Menu                  | weight            |
 | --------------------------------------- | ------------- |
-| \- Barbell Rows (3x10)                  | ??            |
-| \- Deadlifts (2x5)                      | 12.5+12.5     |
+| \- Barbell Rows (3x10)                  | 7.5+7.5kg            |
+| \- Deadlifts (2x5)                      | 15+15kg     |
 | \- Pullups (3x8)                        | body weight+0 |
 | \- EZ bar biceps curls (standing) (3x8) | 3.75+3.75     |
 | \- Dumbbell Rows (2x9)                  | 14 per hand   |
 | \- Concentration curls (2x10)           | 8kg per hand  |
-| \-CABLE Reverse Flyes(2x12)             | 10.9x10.9kg   |
+| \-CABLE Reverse Flyes(2x12)             | 16.3kg each side    |
 
 ## How to images
 
