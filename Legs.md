@@ -2,11 +2,11 @@
 
 | \- Menu                  | Weight             | Joyfit24 machine setting info |
 | ------------------------------------- | ---------------- | ------------------- |
-| \- Back squats (3x6)                       | 10+10        | バー高さ4  |
+| \- Back squats (3x6)                       | 10+10        | バー高さ4, safty bar 12  |
 | \- Barbell Romanian Deadlifts (3x8)        | 15 each side | バー高さ13 |
-| \- Front squats (3x8)                      | ?            | NA     |
-| \- Calf / Leg press on legs machine (2x12) | ?            | NA     |
-| \- One feet squats (2x7)                      | 9+9          | NA     |
+| \- Front squats (3x8)                      | 5+5 kg       | バー高さ5     |
+| \- Calf / Leg press on legs machine (2x12) | 81kg         | NA     |
+| \- One feet squats (2x7)                   | 9+9          | NA     |
 | \- (optional) Hip thrusts (3x6)            | ?            | NA     |
 
 ## How to images
