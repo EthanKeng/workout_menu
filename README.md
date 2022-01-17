@@ -6,3 +6,5 @@ Workout menu for
 -	Jogging 
 
 Started this workout menu from 2022.
+
+Edit from GitHub webpage via iPhone
