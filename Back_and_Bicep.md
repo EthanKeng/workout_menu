@@ -1,14 +1,14 @@
 # My Back&Bicep Menu
 
-| \- Menu                  | weight            |
-| --------------------------------------- | ------------- |
-| \- Barbell Rows (3x10)                  | 7.5+7.5kg            |
-| \- Deadlifts (2x5)                      | 15+15kg     |
-| \- Pullups (3x8)                        | body weight+0 |
-| \- EZ bar biceps curls (standing) (3x8) | 3.75+3.75     |
-| \- Dumbbell Rows (2x9)                  | 14 per hand   |
-| \- Concentration curls (2x10)           | 8kg per hand  |
-| \-CABLE Reverse Flyes(2x12)             | 16.3kg each side    |
+| \- Menu                  | Weight            |   Remarks  |
+| --------------------------------------- | ------------- | --------------|
+| \- Barbell Rows (3x10)                  | 7.5+7.5kg            | Bar 高さ13、Saftyバー18 |
+| \- Deadlifts (2x5)                      | 15+15kg     |  バー高さ14, No safety bar| 
+| \- Pullups (3x8)                        | body weight+0 | N/A |
+| \- EZ bar biceps curls (standing) (3x8) | 3.75+3.75     | N/A |
+| \- Dumbbell Rows (2x9)                  | 14 per hand   | N/A |
+| \- Concentration curls (2x10)           | 8kg per hand  | N/A |
+| \-CABLE Reverse Flyes(2x12)             | 16.3kg each side    | 高さ１
 
 ## How to images
 
