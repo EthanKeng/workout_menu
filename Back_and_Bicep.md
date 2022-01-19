@@ -2,7 +2,7 @@
 
 | \- Menu                  | Weight            |   Remarks  |
 | --------------------------------------- | ------------- | --------------|
-| \- Barbell Rows (3x10)                  | 7.5+7.5kg            | Bar 高さ13、Saftyバー18 |
+| \- Barbell Rows (3x10)                  | 8.65 kg each side            | Bar 高さ13、Saftyバー18 |
 | \- Deadlifts (2x5)                      | 15+15kg     |  バー高さ14, No safety bar| 
 | \- Pullups (3x8)                        | body weight+0 | N/A |
 | \- EZ bar biceps curls (standing) (3x8) | 3.75+3.75     | N/A |
