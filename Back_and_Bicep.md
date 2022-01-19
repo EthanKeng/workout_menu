@@ -6,7 +6,7 @@
 | \- Deadlifts (2x5)                      | 17.5kg  each   |  バー高さ15, No safety bar| 
 | \- Pullups (3x8)                        | body weight+0 | N/A |
 | \- EZ bar biceps curls (standing) (3x8) | 3.75+3.75     | N/A |
-| \- Dumbbell Rows (2x9)                  | 14 per hand   | N/A |
+| \- Dumbbell Rows (2x9)                  | 16 per hand   | N/A |
 | \- Concentration curls (2x10)           | 8kg per hand  | N/A |
 | \-CABLE Reverse Flyes(2x12)             | 16.3kg each side    | 高さ１
 
