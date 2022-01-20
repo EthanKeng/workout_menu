@@ -2,7 +2,7 @@
 
 | \- Menu                  | Weight             | Joyfit24 machine setting info |
 | ------------------------------------- | ---------------- | ------------------- |
-| \- Seated Arnold Shoulder Press (3x8)          | 10x10KG        | NA     |
+| \- Seated Arnold Shoulder Press (3x8)          | 12KG each        | NA     |
 | \- Overhead Press (3x6)                        | Only bar       | 高さ5段階に |
 | \- - SUPERSET 1 - Lateral Raises (3x8)           | 3x3kg          | NA     |
 | \- - SUPERSET 1 - Front Raises (3x8)             | 3x3kg          | NA     |
