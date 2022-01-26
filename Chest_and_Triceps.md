@@ -7,7 +7,7 @@
 | \- Pullovers (3x10)                   | 16kg             | NA                  |
 | \- Skullcrushers (3x8)                | 3.75x3.75        | 2.5\*2.5            |
 | \- Machine Flyes (3x9)                | 27.2kg each side | 6左右的高度 pulldownの機械で 、スミスマシン代替案9KG eachダンベル、椅子足乗せ部分一個高くする|
-| \- Triceps Pulldowns (2x13)           | 49kg             | スミスマシン代替案、体の部分椅子を低くする              |
+| \- Triceps Pulldowns (2x13)           | 49kg             | スミスマシン代替案、3.625 each side,体の部分椅子を低くする              |
 | Option Shoulder ダンベル　(With Pullover   | 12x12            |                 |
 
 ## How to images
