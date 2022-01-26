@@ -7,9 +7,9 @@
 | \- Pullovers (3x10)                   | 16kg             | NA                  |
 | \- Skullcrushers (3x8)                | 3.75x3.75        | 2.5\*2.5            |
 | \- Machine Flyes (3x9)                | 27.2kg each side | 6左右的高度 pulldownの機械で|
-| \- -(Machine Flyes Replacement) 　       | 9+9kg dumbbell   | スミスマシンで椅子足乗せ部分を一段高くする |
+| \- -Decline Dumbbell Chest Fly<br />(Machine Flyes Replacement)| 9+9kg dumbbell   | 椅子足乗せ部分を一段高くする |
 | \- Triceps Pulldowns (2x13)           | 49kg             | NA |
-| \- -(Triceps Pulldowns Replacement)   | 3.625 each side  | 椅子足乗せ部分を一段高くする |
+| \- -Close Grip Bench Press<br />(Triceps Pulldowns Replacement)   | 3.625 each side  | スミスマシンで椅子足乗せ部分を一段高くする |
 | Option Shoulder ダンベル　(With Pullover   | 12x12            |                 |
 
 ## How to images
@@ -41,6 +41,14 @@
 - Smith machine Chair
 
 ![](./img/Chest_and_Triceps/chair.jpg)
+
+- Decline Dumbbell Chest Fly
+
+![](./img/Chest_and_Triceps/decline_dumbbell_chest_fly.jpg)
+
+- Close Grip Bench Press
+
+![](./img/Chest_and_Triceps/Close_Grip_Bench_Press.jpg)
 
 Option Shoulder ダンベル　(With Pullover
 
