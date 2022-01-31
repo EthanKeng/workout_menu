@@ -4,7 +4,7 @@
 | ------------------------------------- | ---------------- | ------------------- |
 | \- Barbell Incline Bench Press (3x10) | 10x10            | 11 バー高さ/サーフのやつは15   |
 | \- Dips (4x7)                         | body weight+0    | 腰の機械で               |
-| \- Pullovers (3x10)                   | 16kg             | NA                  |
+| \- Pullovers (3x10)                   | 18kg            | NA                  |
 | \- Skullcrushers (3x8)                | 3.75x3.75        | 2.5\*2.5            |
 | \- Machine Flyes (3x9)                | 27.2kg each side | 6左右的高度 pulldownの機械で|
 | \- -Decline Dumbbell Chest Fly<br />(Machine Flyes Replacement)| 9+9kg dumbbell   | 椅子足乗せ部分を一段高くする |
