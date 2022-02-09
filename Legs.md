@@ -2,7 +2,7 @@
 
 | \- Menu                  | Weight             | Joyfit24 machine setting info |
 | ------------------------------------- | ---------------- | ------------------- |
-| \- Back squats (3x6)                       | 15 each side      | バー高さ4, safty bar 12  |
+| \- Back squats (3x6)                       | 17.5 each side      | バー高さ4, safty bar 12  |
 | \- Barbell Romanian Deadlifts (3x8)        | 15 each side | バー高さ13 |
 | \- Front squats (3x8)                      | 5+5 kg       | バー高さ5     |
 | \- Calf / Leg press on legs machine (2x12) | 81kg         | NA     |
