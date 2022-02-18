@@ -2,7 +2,7 @@
 
 | \- Menu                  | Weight            |   Remarks  |
 | --------------------------------------- | ------------- | --------------|
-| \- Barbell Rows (3x10)                  | 8.65 kg each side            | Bar 高さ14、Saftyバー18, replacement Standing Band Row 7 height 81 kg|
+| \- Barbell Rows (3x10)                  | 8.65 kg each side            | Bar 高さ14、Saftyバー18, replacement: Standing Band Row 8 height 87 kg|
 | \- Deadlifts (2x5)                      | 20kg  each   |  バー高さ15, No safety bar| 
 | \- Pullups (3x8)                        | body weight+0 | N/A |
 | \- EZ bar biceps curls (standing) (3x8) | 3.75+3.75     | N/A |
