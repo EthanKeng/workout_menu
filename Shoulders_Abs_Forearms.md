@@ -9,7 +9,7 @@
 | \- - SUPERSET 1 - Back Raises (3x9)              | 5 kg each         | NA     |
 | \- Reverse Grip EZ-Bar Curls (3x8)             | 3.625kg each   | NA     |
 | \- - SUPERSET 2 - Ab rolls (2x15)                | NA             | NA     |
-| \- - SUPERSET 2 - Core rotation (2x10 each side) | 38.1 each side | 高さ6   |
+| \- - SUPERSET 2 - Core rotation (2x10 each side) | 43.5 each side | 高さ6   |
 | \- Dumbbell Shrugs (3x10)                      | 20kg Each Side | NA     |
 
 ---
