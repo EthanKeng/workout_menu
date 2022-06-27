@@ -8,7 +8,7 @@
 | \- Skullcrushers (3x8)                | 5 each side     | 2.5\*2.5            |
 | \- Machine Flyes (3x9)                | 38.1kg each side | 6左右的高度 pulldownの機械で|
 | \- -Decline Dumbbell Chest Fly<br />(Machine Flyes Replacement)| 9+9kg dumbbell   | 椅子足乗せ部分を一段高くする |
-| \- Triceps Pulldowns (2x13)           | 49kg             | NA |
+| \- Triceps Pulldowns (2x13)           | 54.4kg             | NA |
 | \- -Close Grip Bench Press<br />(Triceps Pulldowns Replacement)   | 3.625 each side  | スミスマシンで椅子足乗せ部分を一段高くする |
 | Option Shoulder ダンベル　(With Pullover   | 12x12            |                 |
 
