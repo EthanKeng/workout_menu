@@ -7,7 +7,7 @@
 | \- Pullups (3x8)                        | body weight+0 | N/A |
 | \- EZ bar biceps curls (standing) (3x8) | 5+5kg    | N/A |
 | \- Dumbbell Rows (2x9)                  | 16 per hand   | N/A |
-| \- Concentration curls (2x10)           | 8kg per hand  | N/A |
+| \- Concentration curls (2x10)           | 9kg per hand  | N/A |
 | \-CABLE Reverse Flyes(2x12)             | 27.2kg each side    | 高さ１
 
 ## How to images
